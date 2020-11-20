@@ -1,0 +1,10 @@
+.searchbox button{
+    border: 1px solid rgb(0, 0, 0);
+}
+.searchbox button:hover {
+    background-color: rgb(0, 0, 0);
+    color:white;
+}
+.box{
+    align-content: center;
+}
