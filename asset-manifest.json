@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WorkLyfe/static/css/main.c192a32f.chunk.css",
+    "main.js": "/WorkLyfe/static/js/main.e7bb6a8e.chunk.js",
+    "main.js.map": "/WorkLyfe/static/js/main.e7bb6a8e.chunk.js.map",
+    "runtime-main.js": "/WorkLyfe/static/js/runtime-main.d51efe18.js",
+    "runtime-main.js.map": "/WorkLyfe/static/js/runtime-main.d51efe18.js.map",
+    "static/css/2.e4510fa4.chunk.css": "/WorkLyfe/static/css/2.e4510fa4.chunk.css",
+    "static/js/2.0e727c6e.chunk.js": "/WorkLyfe/static/js/2.0e727c6e.chunk.js",
+    "static/js/2.0e727c6e.chunk.js.map": "/WorkLyfe/static/js/2.0e727c6e.chunk.js.map",
+    "index.html": "/WorkLyfe/index.html",
+    "service-worker.js": "/WorkLyfe/service-worker.js",
+    "service-worker.js.map": "/WorkLyfe/service-worker.js.map",
+    "static/css/2.e4510fa4.chunk.css.map": "/WorkLyfe/static/css/2.e4510fa4.chunk.css.map",
+    "static/css/main.c192a32f.chunk.css.map": "/WorkLyfe/static/css/main.c192a32f.chunk.css.map",
+    "static/js/2.0e727c6e.chunk.js.LICENSE.txt": "/WorkLyfe/static/js/2.0e727c6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d51efe18.js",
+    "static/css/2.e4510fa4.chunk.css",
+    "static/js/2.0e727c6e.chunk.js",
+    "static/css/main.c192a32f.chunk.css",
+    "static/js/main.e7bb6a8e.chunk.js"
+  ]
+}
