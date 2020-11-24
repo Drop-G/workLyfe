@@ -5,3 +5,6 @@ const DataAreaContext = React.createContext({
 });
 
 export default DataAreaContext;
+
+
+//two parts every context providers and consumers
