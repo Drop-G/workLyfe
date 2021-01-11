@@ -1,4 +1,5 @@
-# Employee Tracker ![maintained](https://img.shields.io/maintenance/true/2020) ![license](https://img.shields.io/badge/license-MIT-blue)
+# Employee Tracker
+![license](https://img.shields.io/badge/license-MIT-blue)
 
 ### Description
 Simple registry to keep track of employees
