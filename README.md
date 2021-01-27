@@ -4,13 +4,13 @@
 ### Description
 Simple registry to keep track of employees
 
-### Deployed Application
+### Deployed
 [Employee Register](https://staff-station.herokuapp.com/)
 
 
 ## Table of contents
 * [Description](#Description)
-* [Deployed Application](#Live)
+* [Deployed Application](#Deployed)
 * [Version](#Version)
 * [Features](#Features)
 * [Installation](#Installation)
