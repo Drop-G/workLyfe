@@ -10,6 +10,7 @@ Simple registry to keep track of employees
 
 ## Table of contents
 * [Description](#Description)
+* [Deployed Application](#Live)
 * [Version](#Version)
 * [Features](#Features)
 * [Installation](#Installation)
